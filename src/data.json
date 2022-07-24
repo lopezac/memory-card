@@ -1,0 +1,64 @@
+{
+  "cards": [
+    {
+      "img": "Hank_Scorpio.png",
+      "info": "Hank Scorpio",
+      "id": 0
+    },
+    {
+      "img": "Herbert_Powell.png",
+      "info": "Herbert Powell",
+      "id": 1
+    },
+    {
+      "img": "Charles_Montgomery_Burns.png",
+      "info": "Montgomery Burns",
+      "id": 2
+    },
+    {
+      "img": "Lisa_Simpson.png",
+      "info": "Lisa Simpson",
+      "id": 3
+    },
+    {
+      "img": "Maude_Flanders.png",
+      "info": "Maude Flanders",
+      "id": 4
+    },
+    {
+      "img": "Mona_Simpson.png",
+      "info": "Mona Simpson",
+      "id": 5
+    },
+    {
+      "img": "Patty_Bouvier.png",
+      "info": "Patty Bouvier",
+      "id": 6
+    },
+    {
+      "img": "Seymour_Skinner.png",
+      "info": "Seymour Skinner",
+      "id": 7
+    },
+    {
+      "img": "Edna_Krabappel.png",
+      "info": "Edna Krabappel",
+      "id": 8
+    },
+    {
+      "img": "Homer_Simpson.png",
+      "info": "Homer Simpson",
+      "id": 9
+    },
+    {
+      "img": "Ned_Flanders.png",
+      "info": "Ned Flanders",
+      "id": 10
+    },
+    {
+      "img": "Marge_Simpson.png",
+      "info": "Marge Simpson",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+.game {
+  grid-area: game;
+  display: flex;
+}

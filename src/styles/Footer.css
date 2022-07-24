@@ -1,0 +1,25 @@
+.page-footer {
+  grid-area: footer;
+  background-color: var(--dark-blue);
+  color: var(--white-blue);
+}
+
+.page-footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 5px;
+  margin: 5px 0 0 0;
+  font-size: 1rem;
+}
+
+.page-footer p a {
+  text-decoration: none;
+}
+
+.page-footer p a .github-icon {
+  text-decoration: none;
+  color: var(--white-blue);
+  width: 24px;
+  height: 24px;
+}
